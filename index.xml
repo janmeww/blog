@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Meww</title>
-    <link>https://janmeww.github.io/</link>
+    <link>https://janmeww.github.io/blog/</link>
     <description>Recent content on Jan Meww</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://janmeww.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://janmeww.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Practice for Clojure</title>
-      <link>https://janmeww.github.io/praclisp/</link>
+      <link>https://janmeww.github.io/blog/praclisp/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://janmeww.github.io/praclisp/</guid>
+      <guid>https://janmeww.github.io/blog/praclisp/</guid>
       <description>Suppose you know some programming in any language, but now you want learn Clojure&amp;ndash;which I highly recommend. There are a number of good books written on Clojure, but none of them allows a learner to adjust to Lispy goodness.
 By the way, Clojure is dialect of the Lisp programming language, the most important programming language ever. (Feel free to Google why.)
 And Clojure is the most important Lisp, after Common Lisp.</description>
@@ -24,10 +24,10 @@ And Clojure is the most important Lisp, after Common Lisp.</description>
     
     <item>
       <title>About</title>
-      <link>https://janmeww.github.io/about/</link>
+      <link>https://janmeww.github.io/blog/about/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://janmeww.github.io/about/</guid>
+      <guid>https://janmeww.github.io/blog/about/</guid>
       <description>Hello, I am Jan Meww.
 You probably know me from Quora where I run a space called Philosophical Science..
 Well, what else? well, I am just a regular person who loves thinking, reading, and solving problems.</description>
@@ -35,10 +35,10 @@ Well, what else? well, I am just a regular person who loves thinking, reading, a
     
     <item>
       <title>Ch 1</title>
-      <link>https://janmeww.github.io/post/post1/</link>
+      <link>https://janmeww.github.io/blog/post/post1/</link>
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://janmeww.github.io/post/post1/</guid>
+      <guid>https://janmeww.github.io/blog/post/post1/</guid>
       <description>Hello, I am under construction. You are welcome to visit later.</description>
     </item>
     
